@@ -1,1 +1,1 @@
-console.log('is others demo01')
+console.log('is others demo01 quanbu')

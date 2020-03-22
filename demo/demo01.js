@@ -1,1 +1,1 @@
-console.log('is twos others')
+console.log('is twos others qaq")
